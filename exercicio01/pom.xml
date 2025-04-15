@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>projetosenai</groupId>
-	<artifactId>exercicios</artifactId>
+	<artifactId>exercicio01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Exercicios</name>
 	<description>M1S07 Exercicios</description>
